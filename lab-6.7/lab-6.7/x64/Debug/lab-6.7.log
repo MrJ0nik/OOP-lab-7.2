@@ -1,0 +1,53 @@
+﻿  Array.cpp
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(28,41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(29,25): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(30,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(31,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(45,36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(48,37): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(49,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Array.cpp')
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.cpp(8,41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.cpp(18,57): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.cpp(32,59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.cpp(46,30): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.cpp(91,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.cpp(100,66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.cpp(109,39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  main.cpp
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(28,41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'main.cpp')
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(29,25): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'main.cpp')
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(30,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'main.cpp')
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(31,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'main.cpp')
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(45,36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'main.cpp')
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(48,37): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'main.cpp')
+  
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\Array.h(49,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+  lab-6.7.vcxproj -> C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\ООП\лаб 6.0\лаб 6.7\lab-6.7\x64\Debug\lab-6.7.exe
